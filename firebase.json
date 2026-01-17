@@ -1,0 +1,1 @@
+{ "flutter": { "platforms": { "android": { "default": { "projectId": "stagernew", "appId": "1:141697188626:android:252710c4f8c584d7fee9cb", "fileOutput": "android/app/google-services.json" } }, "dart": { "lib/firebase_options.dart": { "projectId": "stagernew", "configurations": { "android": "1:141697188626:android:252710c4f8c584d7fee9cb" } } } } } }

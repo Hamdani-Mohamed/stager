@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141697188626",
+    "project_id": "stagernew",
+    "storage_bucket": "stagernew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141697188626:android:252710c4f8c584d7fee9cb",
+        "android_client_info": {
+          "package_name": "com.example.stager_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_3I1aSu5VaHGdns5IhzNNkybU1dFvRes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
